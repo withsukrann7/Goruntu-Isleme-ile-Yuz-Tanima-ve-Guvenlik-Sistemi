@@ -96,8 +96,8 @@ Masaüstü Bildirim (PyQt5)
 ## 👥 Ekip
 
 
-| İsim | Rol | Sorumluluk Alanı |
-|------|------|----------------|
+| İsim | Rol | 
+|------|------|
 | Emircan Alkan | Kamera & Görüntü İşleme Geliştirici | 
 | Embiya Talas | Yapay Zeka & Yüz Tanıma Geliştirici | 
 | Şükran Yılmaz | Masaüstü Uygulama Geliştirici | 
