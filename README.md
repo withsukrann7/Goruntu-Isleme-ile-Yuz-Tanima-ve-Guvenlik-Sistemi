@@ -79,18 +79,6 @@ Masaüstü Bildirim (PyQt5)
 
 ---
 
-## 🗄️ Veritabanı Tasarımı
-
-### Yetkililer Tablosu
-| id | ad | soyad | embedding |
-
-### Giriş Kayıtları Tablosu
-| id | isim | tarih | saat | durum |
-
-### Yetkisiz Kayıt Tablosu
-| id | foto_yolu | tarih | saat |
-
----
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -105,42 +93,6 @@ Masaüstü Bildirim (PyQt5)
 
 ---
 
-## 📂 Proje Klasör Yapısı
-
-
-security-system/
-
-├── ai/
-│ ├── camera_module.py
-│ ├── recognition_module.py
-│
-├── database/
-│ ├── db.py
-│ ├── schema.sql
-│
-├── ui/
-│ ├── main_window.py
-│
-├── images/
-│
-├── main.py
-└── README.md
-
-
----
-
-## 🔧 Kurulum
-
-### 1️⃣ Depoyu Klonlayın
-
-```bash
-git clone https://github.com/kullaniciadi/ai-yetkili-giris-sistemi.git
-2️⃣ Gerekli Kütüphaneleri Yükleyin
-pip install opencv-python
-pip install deepface
-pip install pyqt5
-pip install psycopg2
-pip install plyer
 👥 Ekip
 İsim	Rol
 Emircan Alkan	Kamera ve Yüz Algılama
