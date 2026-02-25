@@ -93,25 +93,30 @@ Masaüstü Bildirim (PyQt5)
 
 ---
 
-👥 Ekip
-İsim	Rol
-Emircan Alkan	Kamera ve Yüz Algılama
-Embiya Talas	Yüz Tanıma ve Embedding
-Şükran Yılmaz	PostgreSQL ve Kayıt Sistemi
-Kaan Baydere	Masaüstü Arayüz ve Bildirim
-📌 Proje Durumu
+## 👥 Ekip
 
-🔄 Aktif geliştirme aşamasındadır.
+
+| İsim | Rol | Sorumluluk Alanı |
+|------|------|----------------|
+| Emircan Alkan | Kamera & Görüntü İşleme Geliştirici | 
+| Embiya Talas | Yapay Zeka & Yüz Tanıma Geliştirici | 
+| Şükran Yılmaz | Masaüstü Uygulama Geliştirici | 
+| Kaan Baydere | Veritabanı Geliştirici |
+
+---
+
+## 📌 Proje Durumu
+
+🔄 **Aktif geliştirme aşamasındadır.**  
 Bu proje akademik amaçlı olarak geliştirilmiştir.
 
-✨ Akademik Katkı
+---
+
+## ✨ Akademik Katkı
 
 Bu sistem:
 
-Gerçek zamanlı AI uygulamasıdır
-
-Embedding tabanlı biyometrik doğrulama kullanır
-
-Modüler yazılım mimarisi içerir
-
-Güvenlik sistemleri için uygulanabilir bir prototiptir
+- Gerçek zamanlı AI uygulamasıdır  
+- Embedding tabanlı biyometrik doğrulama kullanır  
+- Modüler yazılım mimarisi içerir  
+- Güvenlik sistemleri için uygulanabilir bir prototiptir  
